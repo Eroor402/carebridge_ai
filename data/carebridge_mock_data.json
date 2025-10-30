@@ -1,0 +1,1904 @@
+[
+  {
+    "session_id": "2025-10-29-001",
+    "timestamp": "2025-10-09T18:32:14.075101",
+    "status": "completed",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 37,
+      "gender": "Male"
+    },
+    "transcription": "Patient has asthma for 5 years. BP 113/91. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "113/91"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "37Y, M, Asthma, BP 113/91, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 113/91. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-002",
+    "timestamp": "2025-10-26T18:32:14.075130",
+    "status": "completed",
+    "patient": {
+      "name": "Ritu Mehta",
+      "age": 53,
+      "gender": "Female"
+    },
+    "transcription": "Patient has thyroid disorder for 6 years. BP 130/87. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "130/87"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "53Y, F, Thyroid Disorder, BP 130/87, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 130/87. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-003",
+    "timestamp": "2025-10-17T18:32:14.075142",
+    "status": "completed",
+    "patient": {
+      "name": "Priya Sharma",
+      "age": 60,
+      "gender": "Male"
+    },
+    "transcription": "Patient has thyroid disorder for 7 years. BP 147/72. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "147/72"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "60Y, M, Thyroid Disorder, BP 147/72, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 147/72. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-004",
+    "timestamp": "2025-09-29T18:32:14.075152",
+    "status": "active",
+    "patient": {
+      "name": "Amit Joshi",
+      "age": 25,
+      "gender": "Male"
+    },
+    "transcription": "Patient has hypertension for 8 years. BP 116/79. Prescribed Losartan and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Hypertension"
+      ],
+      "icd_codes": [
+        "I10"
+      ],
+      "vitals": {
+        "BP": "116/79"
+      },
+      "prescriptions": [
+        "Losartan"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "25Y, M, Hypertension, BP 116/79, Rx: Losartan, Plan: Diet & Exercise.",
+      "patient_view": "You have hypertension and your blood pressure was 116/79. You were prescribed Losartan and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "I10": "Tips for Hypertension: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-005",
+    "timestamp": "2025-09-30T18:32:14.075167",
+    "status": "active",
+    "patient": {
+      "name": "Ravi Kumar",
+      "age": 35,
+      "gender": "Male"
+    },
+    "transcription": "Patient has type 2 diabetes for 6 years. BP 143/73. Prescribed Metformin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Type 2 Diabetes"
+      ],
+      "icd_codes": [
+        "E11.9"
+      ],
+      "vitals": {
+        "BP": "143/73"
+      },
+      "prescriptions": [
+        "Metformin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "35Y, M, Type 2 Diabetes, BP 143/73, Rx: Metformin, Plan: Diet & Exercise.",
+      "patient_view": "You have type 2 diabetes and your blood pressure was 143/73. You were prescribed Metformin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E11.9": "Tips for Type 2 Diabetes: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-006",
+    "timestamp": "2025-10-17T18:32:14.075181",
+    "status": "completed",
+    "patient": {
+      "name": "Kavita Rao",
+      "age": 55,
+      "gender": "Female"
+    },
+    "transcription": "Patient has type 2 diabetes for 3 years. BP 127/80. Prescribed Metformin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Type 2 Diabetes"
+      ],
+      "icd_codes": [
+        "E11.9"
+      ],
+      "vitals": {
+        "BP": "127/80"
+      },
+      "prescriptions": [
+        "Metformin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "55Y, F, Type 2 Diabetes, BP 127/80, Rx: Metformin, Plan: Diet & Exercise.",
+      "patient_view": "You have type 2 diabetes and your blood pressure was 127/80. You were prescribed Metformin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E11.9": "Tips for Type 2 Diabetes: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-007",
+    "timestamp": "2025-10-23T18:32:14.075190",
+    "status": "active",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 48,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 8 years. BP 158/85. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "158/85"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "48Y, F, Asthma, BP 158/85, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 158/85. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-008",
+    "timestamp": "2025-10-27T18:32:14.075202",
+    "status": "completed",
+    "patient": {
+      "name": "Priya Sharma",
+      "age": 55,
+      "gender": "Male"
+    },
+    "transcription": "Patient has hypertension for 8 years. BP 121/84. Prescribed Losartan and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Hypertension"
+      ],
+      "icd_codes": [
+        "I10"
+      ],
+      "vitals": {
+        "BP": "121/84"
+      },
+      "prescriptions": [
+        "Losartan"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "55Y, M, Hypertension, BP 121/84, Rx: Losartan, Plan: Diet & Exercise.",
+      "patient_view": "You have hypertension and your blood pressure was 121/84. You were prescribed Losartan and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "I10": "Tips for Hypertension: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-009",
+    "timestamp": "2025-10-11T18:32:14.075213",
+    "status": "active",
+    "patient": {
+      "name": "Anil Verma",
+      "age": 35,
+      "gender": "Female"
+    },
+    "transcription": "Patient has thyroid disorder for 10 years. BP 147/91. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "147/91"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "35Y, F, Thyroid Disorder, BP 147/91, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 147/91. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-010",
+    "timestamp": "2025-10-22T18:32:14.075222",
+    "status": "active",
+    "patient": {
+      "name": "Anil Verma",
+      "age": 50,
+      "gender": "Male"
+    },
+    "transcription": "Patient has thyroid disorder for 9 years. BP 158/72. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "158/72"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "50Y, M, Thyroid Disorder, BP 158/72, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 158/72. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-011",
+    "timestamp": "2025-10-15T18:32:14.075234",
+    "status": "completed",
+    "patient": {
+      "name": "Ritu Mehta",
+      "age": 65,
+      "gender": "Female"
+    },
+    "transcription": "Patient has thyroid disorder for 5 years. BP 143/71. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "143/71"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "65Y, F, Thyroid Disorder, BP 143/71, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 143/71. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-012",
+    "timestamp": "2025-10-20T18:32:14.075246",
+    "status": "active",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 36,
+      "gender": "Female"
+    },
+    "transcription": "Patient has type 2 diabetes for 9 years. BP 156/86. Prescribed Metformin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Type 2 Diabetes"
+      ],
+      "icd_codes": [
+        "E11.9"
+      ],
+      "vitals": {
+        "BP": "156/86"
+      },
+      "prescriptions": [
+        "Metformin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "36Y, F, Type 2 Diabetes, BP 156/86, Rx: Metformin, Plan: Diet & Exercise.",
+      "patient_view": "You have type 2 diabetes and your blood pressure was 156/86. You were prescribed Metformin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E11.9": "Tips for Type 2 Diabetes: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-013",
+    "timestamp": "2025-10-03T18:32:14.075254",
+    "status": "active",
+    "patient": {
+      "name": "Ravi Kumar",
+      "age": 55,
+      "gender": "Female"
+    },
+    "transcription": "Patient has hypertension for 7 years. BP 152/74. Prescribed Losartan and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Hypertension"
+      ],
+      "icd_codes": [
+        "I10"
+      ],
+      "vitals": {
+        "BP": "152/74"
+      },
+      "prescriptions": [
+        "Losartan"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "55Y, F, Hypertension, BP 152/74, Rx: Losartan, Plan: Diet & Exercise.",
+      "patient_view": "You have hypertension and your blood pressure was 152/74. You were prescribed Losartan and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "I10": "Tips for Hypertension: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-014",
+    "timestamp": "2025-10-17T18:32:14.075263",
+    "status": "active",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 58,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 4 years. BP 153/89. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "153/89"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "58Y, F, Asthma, BP 153/89, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 153/89. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-015",
+    "timestamp": "2025-10-22T18:32:14.075272",
+    "status": "completed",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 56,
+      "gender": "Female"
+    },
+    "transcription": "Patient has high cholesterol for 4 years. BP 112/91. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "112/91"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "56Y, F, High Cholesterol, BP 112/91, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 112/91. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-016",
+    "timestamp": "2025-10-04T18:32:14.075282",
+    "status": "completed",
+    "patient": {
+      "name": "Anil Verma",
+      "age": 38,
+      "gender": "Male"
+    },
+    "transcription": "Patient has hypertension for 2 years. BP 128/99. Prescribed Losartan and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Hypertension"
+      ],
+      "icd_codes": [
+        "I10"
+      ],
+      "vitals": {
+        "BP": "128/99"
+      },
+      "prescriptions": [
+        "Losartan"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "38Y, M, Hypertension, BP 128/99, Rx: Losartan, Plan: Diet & Exercise.",
+      "patient_view": "You have hypertension and your blood pressure was 128/99. You were prescribed Losartan and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "I10": "Tips for Hypertension: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-017",
+    "timestamp": "2025-10-29T18:32:14.075289",
+    "status": "completed",
+    "patient": {
+      "name": "Ravi Kumar",
+      "age": 61,
+      "gender": "Female"
+    },
+    "transcription": "Patient has type 2 diabetes for 10 years. BP 117/83. Prescribed Metformin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Type 2 Diabetes"
+      ],
+      "icd_codes": [
+        "E11.9"
+      ],
+      "vitals": {
+        "BP": "117/83"
+      },
+      "prescriptions": [
+        "Metformin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "61Y, F, Type 2 Diabetes, BP 117/83, Rx: Metformin, Plan: Diet & Exercise.",
+      "patient_view": "You have type 2 diabetes and your blood pressure was 117/83. You were prescribed Metformin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E11.9": "Tips for Type 2 Diabetes: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-018",
+    "timestamp": "2025-10-15T18:32:14.075397",
+    "status": "active",
+    "patient": {
+      "name": "Vivek Singh",
+      "age": 40,
+      "gender": "Male"
+    },
+    "transcription": "Patient has high cholesterol for 7 years. BP 157/89. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "157/89"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "40Y, M, High Cholesterol, BP 157/89, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 157/89. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-019",
+    "timestamp": "2025-10-06T18:32:14.075409",
+    "status": "active",
+    "patient": {
+      "name": "Ritu Mehta",
+      "age": 33,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 7 years. BP 145/100. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "145/100"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "33Y, F, Asthma, BP 145/100, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 145/100. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-020",
+    "timestamp": "2025-10-06T18:32:14.075419",
+    "status": "completed",
+    "patient": {
+      "name": "Vivek Singh",
+      "age": 60,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 6 years. BP 134/80. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "134/80"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "60Y, F, Asthma, BP 134/80, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 134/80. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-021",
+    "timestamp": "2025-09-29T18:32:14.075428",
+    "status": "active",
+    "patient": {
+      "name": "Amit Joshi",
+      "age": 64,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 7 years. BP 151/84. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "151/84"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "64Y, F, Asthma, BP 151/84, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 151/84. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-022",
+    "timestamp": "2025-10-23T18:32:14.075435",
+    "status": "completed",
+    "patient": {
+      "name": "Vivek Singh",
+      "age": 35,
+      "gender": "Female"
+    },
+    "transcription": "Patient has high cholesterol for 9 years. BP 152/94. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "152/94"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "35Y, F, High Cholesterol, BP 152/94, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 152/94. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-023",
+    "timestamp": "2025-10-10T18:32:14.075443",
+    "status": "completed",
+    "patient": {
+      "name": "Priya Sharma",
+      "age": 29,
+      "gender": "Male"
+    },
+    "transcription": "Patient has type 2 diabetes for 5 years. BP 153/81. Prescribed Metformin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Type 2 Diabetes"
+      ],
+      "icd_codes": [
+        "E11.9"
+      ],
+      "vitals": {
+        "BP": "153/81"
+      },
+      "prescriptions": [
+        "Metformin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "29Y, M, Type 2 Diabetes, BP 153/81, Rx: Metformin, Plan: Diet & Exercise.",
+      "patient_view": "You have type 2 diabetes and your blood pressure was 153/81. You were prescribed Metformin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E11.9": "Tips for Type 2 Diabetes: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-024",
+    "timestamp": "2025-10-12T18:32:14.075451",
+    "status": "active",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 49,
+      "gender": "Male"
+    },
+    "transcription": "Patient has asthma for 1 years. BP 133/97. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "133/97"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "49Y, M, Asthma, BP 133/97, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 133/97. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-025",
+    "timestamp": "2025-10-19T18:32:14.075463",
+    "status": "completed",
+    "patient": {
+      "name": "Anil Verma",
+      "age": 42,
+      "gender": "Male"
+    },
+    "transcription": "Patient has type 2 diabetes for 2 years. BP 118/98. Prescribed Metformin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Type 2 Diabetes"
+      ],
+      "icd_codes": [
+        "E11.9"
+      ],
+      "vitals": {
+        "BP": "118/98"
+      },
+      "prescriptions": [
+        "Metformin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "42Y, M, Type 2 Diabetes, BP 118/98, Rx: Metformin, Plan: Diet & Exercise.",
+      "patient_view": "You have type 2 diabetes and your blood pressure was 118/98. You were prescribed Metformin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E11.9": "Tips for Type 2 Diabetes: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-026",
+    "timestamp": "2025-10-18T18:32:14.075471",
+    "status": "completed",
+    "patient": {
+      "name": "Ravi Kumar",
+      "age": 28,
+      "gender": "Male"
+    },
+    "transcription": "Patient has thyroid disorder for 10 years. BP 154/82. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "154/82"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "28Y, M, Thyroid Disorder, BP 154/82, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 154/82. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-027",
+    "timestamp": "2025-10-21T18:32:14.075481",
+    "status": "completed",
+    "patient": {
+      "name": "Anil Verma",
+      "age": 40,
+      "gender": "Female"
+    },
+    "transcription": "Patient has high cholesterol for 5 years. BP 131/89. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "131/89"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "40Y, F, High Cholesterol, BP 131/89, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 131/89. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-028",
+    "timestamp": "2025-10-05T18:32:14.075488",
+    "status": "completed",
+    "patient": {
+      "name": "Vivek Singh",
+      "age": 32,
+      "gender": "Male"
+    },
+    "transcription": "Patient has thyroid disorder for 9 years. BP 123/90. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "123/90"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "32Y, M, Thyroid Disorder, BP 123/90, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 123/90. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-029",
+    "timestamp": "2025-10-08T18:32:14.075495",
+    "status": "completed",
+    "patient": {
+      "name": "Ravi Kumar",
+      "age": 68,
+      "gender": "Male"
+    },
+    "transcription": "Patient has thyroid disorder for 3 years. BP 146/79. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "146/79"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "68Y, M, Thyroid Disorder, BP 146/79, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 146/79. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-030",
+    "timestamp": "2025-10-26T18:32:14.075509",
+    "status": "completed",
+    "patient": {
+      "name": "Amit Joshi",
+      "age": 59,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 5 years. BP 149/78. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "149/78"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "59Y, F, Asthma, BP 149/78, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 149/78. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-031",
+    "timestamp": "2025-10-28T18:32:14.075517",
+    "status": "completed",
+    "patient": {
+      "name": "Ravi Kumar",
+      "age": 49,
+      "gender": "Male"
+    },
+    "transcription": "Patient has type 2 diabetes for 4 years. BP 141/87. Prescribed Metformin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Type 2 Diabetes"
+      ],
+      "icd_codes": [
+        "E11.9"
+      ],
+      "vitals": {
+        "BP": "141/87"
+      },
+      "prescriptions": [
+        "Metformin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "49Y, M, Type 2 Diabetes, BP 141/87, Rx: Metformin, Plan: Diet & Exercise.",
+      "patient_view": "You have type 2 diabetes and your blood pressure was 141/87. You were prescribed Metformin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E11.9": "Tips for Type 2 Diabetes: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-032",
+    "timestamp": "2025-10-16T18:32:14.075528",
+    "status": "completed",
+    "patient": {
+      "name": "Kavita Rao",
+      "age": 42,
+      "gender": "Male"
+    },
+    "transcription": "Patient has thyroid disorder for 7 years. BP 112/82. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "112/82"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "42Y, M, Thyroid Disorder, BP 112/82, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 112/82. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-033",
+    "timestamp": "2025-10-11T18:32:14.075536",
+    "status": "active",
+    "patient": {
+      "name": "Vivek Singh",
+      "age": 38,
+      "gender": "Female"
+    },
+    "transcription": "Patient has thyroid disorder for 1 years. BP 127/100. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "127/100"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "38Y, F, Thyroid Disorder, BP 127/100, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 127/100. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-034",
+    "timestamp": "2025-10-04T18:32:14.075544",
+    "status": "completed",
+    "patient": {
+      "name": "Ritu Mehta",
+      "age": 58,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 3 years. BP 114/91. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "114/91"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "58Y, F, Asthma, BP 114/91, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 114/91. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-035",
+    "timestamp": "2025-09-30T18:32:14.075551",
+    "status": "active",
+    "patient": {
+      "name": "Anil Verma",
+      "age": 66,
+      "gender": "Female"
+    },
+    "transcription": "Patient has thyroid disorder for 4 years. BP 126/100. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "126/100"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "66Y, F, Thyroid Disorder, BP 126/100, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 126/100. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-036",
+    "timestamp": "2025-10-23T18:32:14.075562",
+    "status": "completed",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 45,
+      "gender": "Female"
+    },
+    "transcription": "Patient has high cholesterol for 9 years. BP 129/73. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "129/73"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "45Y, F, High Cholesterol, BP 129/73, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 129/73. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-037",
+    "timestamp": "2025-10-24T18:32:14.075571",
+    "status": "completed",
+    "patient": {
+      "name": "Anil Verma",
+      "age": 41,
+      "gender": "Male"
+    },
+    "transcription": "Patient has type 2 diabetes for 6 years. BP 111/97. Prescribed Metformin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Type 2 Diabetes"
+      ],
+      "icd_codes": [
+        "E11.9"
+      ],
+      "vitals": {
+        "BP": "111/97"
+      },
+      "prescriptions": [
+        "Metformin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "41Y, M, Type 2 Diabetes, BP 111/97, Rx: Metformin, Plan: Diet & Exercise.",
+      "patient_view": "You have type 2 diabetes and your blood pressure was 111/97. You were prescribed Metformin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E11.9": "Tips for Type 2 Diabetes: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-038",
+    "timestamp": "2025-10-19T18:32:14.075580",
+    "status": "completed",
+    "patient": {
+      "name": "Ravi Kumar",
+      "age": 58,
+      "gender": "Male"
+    },
+    "transcription": "Patient has thyroid disorder for 10 years. BP 123/77. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "123/77"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "58Y, M, Thyroid Disorder, BP 123/77, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 123/77. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-039",
+    "timestamp": "2025-10-22T18:32:14.075587",
+    "status": "active",
+    "patient": {
+      "name": "Ritu Mehta",
+      "age": 49,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 5 years. BP 139/79. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "139/79"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "49Y, F, Asthma, BP 139/79, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 139/79. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-040",
+    "timestamp": "2025-10-11T18:32:14.075597",
+    "status": "active",
+    "patient": {
+      "name": "Anil Verma",
+      "age": 56,
+      "gender": "Female"
+    },
+    "transcription": "Patient has thyroid disorder for 9 years. BP 136/94. Prescribed Levothyroxine and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Thyroid Disorder"
+      ],
+      "icd_codes": [
+        "E03.9"
+      ],
+      "vitals": {
+        "BP": "136/94"
+      },
+      "prescriptions": [
+        "Levothyroxine"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "56Y, F, Thyroid Disorder, BP 136/94, Rx: Levothyroxine, Plan: Diet & Exercise.",
+      "patient_view": "You have thyroid disorder and your blood pressure was 136/94. You were prescribed Levothyroxine and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E03.9": "Tips for Thyroid Disorder: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-041",
+    "timestamp": "2025-10-28T18:32:14.075609",
+    "status": "completed",
+    "patient": {
+      "name": "Ritu Mehta",
+      "age": 62,
+      "gender": "Female"
+    },
+    "transcription": "Patient has high cholesterol for 2 years. BP 159/71. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "159/71"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "62Y, F, High Cholesterol, BP 159/71, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 159/71. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-042",
+    "timestamp": "2025-10-18T18:32:14.075621",
+    "status": "completed",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 67,
+      "gender": "Male"
+    },
+    "transcription": "Patient has hypertension for 7 years. BP 138/97. Prescribed Losartan and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Hypertension"
+      ],
+      "icd_codes": [
+        "I10"
+      ],
+      "vitals": {
+        "BP": "138/97"
+      },
+      "prescriptions": [
+        "Losartan"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "67Y, M, Hypertension, BP 138/97, Rx: Losartan, Plan: Diet & Exercise.",
+      "patient_view": "You have hypertension and your blood pressure was 138/97. You were prescribed Losartan and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "I10": "Tips for Hypertension: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-043",
+    "timestamp": "2025-10-12T18:32:14.075628",
+    "status": "active",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 39,
+      "gender": "Female"
+    },
+    "transcription": "Patient has high cholesterol for 10 years. BP 118/95. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "118/95"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "39Y, F, High Cholesterol, BP 118/95, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 118/95. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-044",
+    "timestamp": "2025-10-02T18:32:14.075636",
+    "status": "active",
+    "patient": {
+      "name": "Priya Sharma",
+      "age": 48,
+      "gender": "Male"
+    },
+    "transcription": "Patient has high cholesterol for 10 years. BP 116/72. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "116/72"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "48Y, M, High Cholesterol, BP 116/72, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 116/72. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-045",
+    "timestamp": "2025-09-29T18:32:14.075643",
+    "status": "active",
+    "patient": {
+      "name": "Sneha Patel",
+      "age": 57,
+      "gender": "Female"
+    },
+    "transcription": "Patient has hypertension for 5 years. BP 115/80. Prescribed Losartan and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Hypertension"
+      ],
+      "icd_codes": [
+        "I10"
+      ],
+      "vitals": {
+        "BP": "115/80"
+      },
+      "prescriptions": [
+        "Losartan"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "57Y, F, Hypertension, BP 115/80, Rx: Losartan, Plan: Diet & Exercise.",
+      "patient_view": "You have hypertension and your blood pressure was 115/80. You were prescribed Losartan and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "I10": "Tips for Hypertension: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-046",
+    "timestamp": "2025-10-08T18:32:14.075653",
+    "status": "completed",
+    "patient": {
+      "name": "Vivek Singh",
+      "age": 48,
+      "gender": "Female"
+    },
+    "transcription": "Patient has asthma for 10 years. BP 117/77. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "117/77"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "48Y, F, Asthma, BP 117/77, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 117/77. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-047",
+    "timestamp": "2025-10-21T18:32:14.075682",
+    "status": "completed",
+    "patient": {
+      "name": "Vivek Singh",
+      "age": 43,
+      "gender": "Male"
+    },
+    "transcription": "Patient has high cholesterol for 5 years. BP 118/91. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "118/91"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "43Y, M, High Cholesterol, BP 118/91, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 118/91. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-048",
+    "timestamp": "2025-10-28T18:32:14.075690",
+    "status": "completed",
+    "patient": {
+      "name": "Ritu Mehta",
+      "age": 65,
+      "gender": "Male"
+    },
+    "transcription": "Patient has high cholesterol for 8 years. BP 118/86. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "118/86"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "65Y, M, High Cholesterol, BP 118/86, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 118/86. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-049",
+    "timestamp": "2025-10-11T18:32:14.075704",
+    "status": "completed",
+    "patient": {
+      "name": "Priya Sharma",
+      "age": 31,
+      "gender": "Male"
+    },
+    "transcription": "Patient has asthma for 7 years. BP 113/71. Prescribed Salbutamol and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "Asthma"
+      ],
+      "icd_codes": [
+        "J45.909"
+      ],
+      "vitals": {
+        "BP": "113/71"
+      },
+      "prescriptions": [
+        "Salbutamol"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "31Y, M, Asthma, BP 113/71, Rx: Salbutamol, Plan: Diet & Exercise.",
+      "patient_view": "You have asthma and your blood pressure was 113/71. You were prescribed Salbutamol and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "J45.909": "Tips for Asthma: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "2025-10-29-050",
+    "timestamp": "2025-10-14T18:32:14.075713",
+    "status": "active",
+    "patient": {
+      "name": "Ravi Kumar",
+      "age": 33,
+      "gender": "Female"
+    },
+    "transcription": "Patient has high cholesterol for 10 years. BP 144/93. Prescribed Atorvastatin and advised diet and exercise.",
+    "ehr": {
+      "diagnoses": [
+        "High Cholesterol"
+      ],
+      "icd_codes": [
+        "E78.0"
+      ],
+      "vitals": {
+        "BP": "144/93"
+      },
+      "prescriptions": [
+        "Atorvastatin"
+      ],
+      "plan": [
+        "Diet control",
+        "Exercise",
+        "Follow-up in 2 weeks"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "33Y, F, High Cholesterol, BP 144/93, Rx: Atorvastatin, Plan: Diet & Exercise.",
+      "patient_view": "You have high cholesterol and your blood pressure was 144/93. You were prescribed Atorvastatin and advised to follow a healthy diet and exercise regularly."
+    },
+    "health_tips": {
+      "E78.0": "Tips for High Cholesterol: Maintain a healthy lifestyle and follow doctor's advice regularly."
+    }
+  },
+  {
+    "session_id": "session_051",
+    "timestamp": "2025-10-30T02:12:05.793447",
+    "status": "active",
+    "patient": {
+      "name": "",
+      "age": 0,
+      "gender": "Male"
+    },
+    "transcription": "",
+    "ehr": {
+      "diagnoses": [],
+      "icd_codes": [],
+      "vitals": {
+        "BP": "N/A"
+      },
+      "prescriptions": [],
+      "plan": []
+    },
+    "summaries": {
+      "doctor_view": "0Y, M, , BP N/A, Rx: , Plan: .",
+      "patient_view": "You have  and your blood pressure was N/A. You were prescribed  and advised to ."
+    },
+    "health_tips": {}
+  },
+  {
+    "session_id": "session_052",
+    "timestamp": "2025-10-30T09:15:19.085865",
+    "status": "active",
+    "patient": {
+      "name": "Isha Chaudhary",
+      "age": 21,
+      "gender": "Female"
+    },
+    "transcription": "do exercise daily, your blood pressureis high",
+    "ehr": {
+      "diagnoses": [],
+      "icd_codes": [],
+      "vitals": {
+        "BP": "N/A"
+      },
+      "prescriptions": [],
+      "plan": [
+        "Exercise"
+      ]
+    },
+    "summaries": {
+      "doctor_view": "21Y, F, , BP N/A, Rx: , Plan: Exercise.",
+      "patient_view": "You have  and your blood pressure was N/A. You were prescribed  and advised to exercise."
+    },
+    "health_tips": {}
+  }
+]
