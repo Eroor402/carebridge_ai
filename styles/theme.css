@@ -1,0 +1,244 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@300;400;600&display=swap');
+
+/* === Color Palette === */
+:root {
+  --primary: #2F80ED;
+  --secondary: #56CCF2;
+  --accent: #6FCF97;
+  --background: #F8FAFB;
+  --text: #333333;
+  --success: #27AE60;
+  --warning: #F2C94C;
+  --error: #EB5757;
+}
+
+/* === Typography === */
+body, html, .stApp {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: var(--background);
+  color: var(--text);
+  font-size: 16px;
+  line-height: 1.6;
+  letter-spacing: 0.3px;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: var(--primary);
+  letter-spacing: -0.5px;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5em;
+  background: linear-gradient(120deg, var(--primary), var(--secondary));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: gradientFlow 8s ease infinite;
+}
+
+@keyframes gradientFlow {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+small, .tagline {
+  font-family: 'Playfair Display', serif;
+  font-weight: 400;
+  color: var(--secondary);
+  font-size: 1.1rem;
+  font-style: italic;
+}
+
+/* === Buttons === */
+button, .stButton>button {
+  background-color: var(--accent);
+  color: white;
+  border-radius: 6px;
+  padding: 0.5em 1em;
+  font-weight: bold;
+}
+
+/* === Alerts === */
+.stAlert-success {
+  background-color: var(--success);
+}
+.stAlert-warning {
+  background-color: var(--warning);
+}
+.stAlert-error {
+  background-color: var(--error);
+}
+
+
+.hero {
+  background: linear-gradient(135deg, #F8FAFB, #E6F7FF);
+  padding: 4em;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  text-align: center;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: #555;
+  line-height: 1.8;
+  margin-bottom: 1.5em;
+}
+
+.role-cards {
+  display: flex;
+  justify-content: center;
+  gap: 2.5em;
+  margin-top: 3em;
+}
+
+.card {
+  background-color: #FFFFFF;
+  border: none;
+  border-radius: 16px;
+  padding: 2em;
+  width: 280px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+  transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 32px rgba(47,128,237,0.15);
+}
+
+.card h3 {
+  color: var(--primary);
+  font-size: 1.5rem;
+  margin-bottom: 1em;
+  font-weight: 600;
+}
+
+.card p {
+  color: #666;
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 1.5em;
+}
+
+.card a {
+  display: inline-block;
+  padding: 0.8em 1.6em;
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+  color: white;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  font-family: 'Montserrat', sans-serif;
+  letter-spacing: 0.5px;
+}
+
+.card a:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(47,128,237,0.2);
+  filter: brightness(1.1);
+}
+/* Sidebar tweaks */
+.stSidebar {
+  background-color: #FFFFFF !important;
+  padding: 1em;
+}
+
+.stSidebar h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #2F80ED;
+  margin-bottom: 1em;
+}
+/* Sidebar container */
+section[data-testid="stSidebar"] {
+  background-color: #FFFFFF;
+  padding: 2em 1em;
+  font-family: 'Inter', sans-serif;
+  color: #333333;
+}
+
+/* Sidebar headings */
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #2F80ED;
+  margin-bottom: 1em;
+}
+
+/* Sidebar links */
+section[data-testid="stSidebar"] ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+section[data-testid="stSidebar"] li {
+  margin-bottom: 1em;
+  font-size: 1rem;
+}
+
+section[data-testid="stSidebar"] a {
+  text-decoration: none;
+  color: #2F80ED;
+  font-weight: 500;
+}
+
+section[data-testid="stSidebar"] a:hover {
+  color: #56CCF2;
+}
+
+.sidebar-header {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 1.5em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+section[data-testid="stSidebar"] a {
+  text-decoration: none;
+  color: var(--primary);
+  font-weight: 500;
+  padding: 0.3em 0;
+  display: inline-block;
+  transition: color 0.2s ease;
+}
+
+section[data-testid="stSidebar"] a:hover {
+  color: var(--secondary);
+}
+
+section[data-testid="stSidebar"] li {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  font-size: 1rem;
+  margin-bottom: 1em;
+}
+.sidebar-divider {
+  border-top: 1px solid #EEE;
+  margin: 1.5em 0;
+}
+/* Optional: Style Streamlit page_link buttons */
+section[data-testid="stSidebar"] button {
+  background-color: transparent;
+  color: var(--primary);
+  font-family: 'Poppins', sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+  padding: 0.5em 0;
+  border: none;
+  text-align: left;
+}
+
+section[data-testid="stSidebar"] button:hover {
+  color: var(--secondary);
+  cursor: pointer;
+}
