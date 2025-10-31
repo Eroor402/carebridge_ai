@@ -1,4 +1,11 @@
 import streamlit as st
+
+def load_custom_css():
+    with open("styles/theme.css") as f:
+        st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
+load_custom_css()
+
 from utils import get_session_ids, get_doctor_summary, get_structured_ehr, get_session_by_id, save_new_session
 
 from audiorecorder import audiorecorder
